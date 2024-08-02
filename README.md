@@ -4,6 +4,10 @@ This Repository Contains the project that i've done during my internship with IB
 
 Panda Interface is a simple chatbot application built using Python and Tkinter. It processes user inputs, finds the most similar question from a dataset, and returns the corresponding answer. Additionally, it can summarize the answer for a concise response.
 
+
+# Output
+![IMG-20240801-WA0028](https://github.com/user-attachments/assets/53b5a584-a853-4777-aac8-554a4b98987c)
+
 ## Features
 
 - Preprocesses user input and dataset questions using NLTK.
